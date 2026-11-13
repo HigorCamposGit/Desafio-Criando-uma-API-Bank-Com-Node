@@ -45,4 +45,13 @@ Neste projeto, construímos e evoluímos uma API backend para gerenciamento de u
 * **Repositório Base**: [digitalinnovationone/desafio04-ts](https://github.com/digitalinnovationone/desafio04-ts)
 * **Desenvolvido por**: [Higor de Campos](https://github.com/HigorCamposGit)
 
+--- 
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
 ---
