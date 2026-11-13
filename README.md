@@ -43,7 +43,7 @@ Neste projeto, construímos e evoluímos uma API backend para gerenciamento de u
 
 * **Instrutora**: [Nathally Souza (@nathsouzadev)](https://github.com/nathsouzadev)
 * **Repositório Base**: [digitalinnovationone/desafio04-ts](https://github.com/digitalinnovationone/desafio04-ts)
-* **Desenvolvido por**: [Higor de Campos](https://github.com/HigorCamposGit)
+* **Desafio realizado por**: [Higor de Campos](https://github.com/HigorCamposGit)
 
 --- 
 
